@@ -1,0 +1,4 @@
+package com.movieapp.movie_backend.repository;
+
+public class UserRepository {
+}
